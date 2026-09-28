@@ -1,0 +1,11 @@
+.DS_Store
+client/.DS_Store
+client/src/.DS_Store
+*.DS_Store
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+node_modules/
+.env
